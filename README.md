@@ -2,7 +2,7 @@
 A categorized dataset of 3D printing failures and defects for AI-based quality inspection and troubleshooting research
 
 ## Motivation
-///
+The rapid growth of additive manufacturing has increased the need for automated quality control. However, diverse and labeled datasets of printing failures remain scarce. This repository aims to bridge this gap by providing a curated dataset, named the 3D printing troubleshooting guide, of 3D printing defects, especially the Fused Deposition Modelling (FDM) process, enabling the development of machine learning models for real-time error detection and autonomous troubleshooting.
 
 ## Dataset description
 This dataset was manually curated from technical documents on the 3D printing process and output quality issues. The following are source websites:
@@ -12,11 +12,11 @@ This dataset was manually curated from technical documents on the 3D printing pr
 
 ### Creation details
 The original documents were fully reviewed, with redundant entries consolidated and irrelevant links or unnecessary examples removed to ensure conciseness and clarity.
-* Each entry consists of three components
+* Content: Each entry consists of three components
   * Problem – Description of the print quality issue
   * Cause – Identified or potential reasons for the issue
   * Solution – Recommended corrective actions
-* The dataset is provided in both Markdown and PDF formats for flexible use in machine learning and information retrieval research.
+* Format: The dataset is provided in both Markdown and PDF formats for flexible use in machine learning and information retrieval research.
 
 ### Sample contents
 (To be added.)
