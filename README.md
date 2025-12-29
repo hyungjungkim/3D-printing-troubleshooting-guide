@@ -18,6 +18,8 @@ The original technical documents were reviewed in full, redundant entries were c
   * Cause – Identified or potential reasons for the issue
   * Solution – Recommended corrective actions
 * Format: The dataset is provided in both Markdown and PDF formats for flexible use in machine learning and information retrieval research.
+  * 3D-Printer-Troubleshooting-Guide-Markdown.md
+  * 3D-Printer-Troubleshooting-Guide-PDF.pdf
 
 ### Sample contents
     ...
