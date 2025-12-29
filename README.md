@@ -18,8 +18,8 @@ The original technical documents were reviewed in full, redundant entries were c
   * Cause – Identified or potential reasons for the issue
   * Solution – Recommended corrective actions
 * Format: The dataset is provided in both Markdown and PDF formats for flexible use in machine learning and information retrieval research.
-  * 3D-Printer-Troubleshooting-Guide-Markdown.md
-  * 3D-Printer-Troubleshooting-Guide-PDF.pdf
+  * [3D-Printer-Troubleshooting-Guide-Markdown.md](3D-Printer-Troubleshooting-Guide-Markdown.md)
+  * [3D-Printer-Troubleshooting-Guide-PDF.pdf](3D-Printer-Troubleshooting-Guide-PDF.pdf)
 
 ### Sample contents
     ...
@@ -46,6 +46,6 @@ This dataset can also be downloaded directly from the following repositories:
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contact
-Please email Jinju Kang (jingu1138@konkuk.ac.kr, co-creator), Kangmin Ahn (akm5587@konkuk.ac.kr, co-creator), or Hyungjung Kim (hyungjungkim@konkuk.ac.kr, maintainer) for any questions regarding the dataset.
+Please email Jingu Kang (jingu1138@konkuk.ac.kr, co-creator), Kangmin Ahn (akm5587@konkuk.ac.kr, co-creator), or Hyungjung Kim (hyungjungkim@konkuk.ac.kr, maintainer) for any questions regarding the dataset.
 
 <img src="images/konkuk_university.png" height="45"/>
