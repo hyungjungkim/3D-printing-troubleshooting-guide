@@ -39,7 +39,7 @@ The original technical documents were reviewed in full, redundant entries were c
 
 ## Download
 This dataset can also be downloaded directly from the following repositories:
-* [Mendeley data](https://data.mendeley.com/)
+* [Mendeley data](https://data.mendeley.com/datasets/88pcwt65yp)
 
 ## License
 This dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
